@@ -1,3 +1,4 @@
-{ "version_code": 10, "version_name": "0.1.9",
-  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v0.1.9/kiosk-0.1.9-10.apk",
-  "sha256": "b0e052fe0d4b6b0aa0344566c67c50bf6d80d183803bc4781daf2ffe2c95f35e" }
+{ "version_code": 11, "version_name": "0.1.10",
+  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v0.1.10/kiosk-0.1.10-11.apk",
+  "sha256": "465bf3850ef2bd643e1927ac5cd1f0a06897e55eebde25952d5bbce3d313e1de",
+  "notes": "업데이트 다이얼로그에 「버전 · 바뀐 것 한 줄」 표시 (latest.json notes)" }
