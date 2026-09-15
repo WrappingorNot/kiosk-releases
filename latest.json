@@ -1,4 +1,4 @@
-{ "version_code": 12, "version_name": "0.1.11",
-  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v0.1.11/kiosk-0.1.11-12.apk",
-  "sha256": "dcd8e36f4602c99f0a4501b5d83de56eff561bf784ff6b30be506ba3aab66089",
-  "notes": "대상자 동기화 5분 간격 제한" }
+{ "version_code": 13, "version_name": "0.2.0",
+  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v0.2.0/kiosk-0.2.0-13.apk",
+  "sha256": "9c04b3ffe86fb1d16ce70baca9921a44f510b94b6af995cdda431e790bcecde9",
+  "notes": "개별 평가 화면(종목 29장, SPPB 는 복합평가 카드), 홈 둘째 카드 「개별 평가」" }
