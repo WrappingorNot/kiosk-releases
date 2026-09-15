@@ -1,4 +1,4 @@
-{ "version_code": 18, "version_name": "0.2.5",
-  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v0.2.5/kiosk-0.2.5-18.apk",
-  "sha256": "470de9a04346b3665d22b9d7e5217547b0acf0af53a021a8309468b4fb6bc591",
-  "notes": "개별 평가 중엔 오른쪽 위 스테퍼를 감추고 배지에 종목 이름" }
+{ "version_code": 19, "version_name": "0.2.6",
+  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v0.2.6/kiosk-0.2.6-19.apk",
+  "sha256": "4c1e681900dc8bc2c845864a9749edd4693cee5743218a966613f1bddd906ff7",
+  "notes": "개별 평가 카드가 완료되면 뒤집히는 연출, SPPB 에서 돌아와도 카드 바로 갱신" }
