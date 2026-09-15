@@ -1,4 +1,4 @@
-{ "version_code": 17, "version_name": "0.2.4",
-  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v0.2.4/kiosk-0.2.4-17.apk",
-  "sha256": "fa8311340bf9c3e3adefcad74b931d88b5daa4b654ccfa5afb16113b7c68a279",
-  "notes": "개별 평가 기록을 기본 회차·보완 계획·결과지·전송에서 분리, 완료 판정은 같은 날로 통일" }
+{ "version_code": 18, "version_name": "0.2.5",
+  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v0.2.5/kiosk-0.2.5-18.apk",
+  "sha256": "470de9a04346b3665d22b9d7e5217547b0acf0af53a021a8309468b4fb6bc591",
+  "notes": "개별 평가 중엔 오른쪽 위 스테퍼를 감추고 배지에 종목 이름" }
