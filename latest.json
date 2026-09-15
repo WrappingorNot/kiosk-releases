@@ -1,4 +1,4 @@
-{ "version_code": 23, "version_name": "0.2.10",
-  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v0.2.10/kiosk-0.2.10-23.apk",
-  "sha256": "dc9bb8c76270a03faa4502b3afb824242bdc938f4792da858b35cc57fb4d7649",
-  "notes": "개별 평가 선 자세 완료를 다른 종목처럼 카드 완료 화면으로" }
+{ "version_code": 24, "version_name": "0.2.11",
+  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v0.2.11/kiosk-0.2.11-24.apk",
+  "sha256": "7f5c0cb47faaa2f8e1cef01220c742e4464c9230298db035fe7515cb5a6408f2",
+  "notes": "마음평가 카드 10장 삽화를 시안(Q-001~Q-011)대로" }
