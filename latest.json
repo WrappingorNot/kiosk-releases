@@ -1,4 +1,4 @@
-{ "version_code": 11, "version_name": "0.1.10",
-  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v0.1.10/kiosk-0.1.10-11.apk",
-  "sha256": "465bf3850ef2bd643e1927ac5cd1f0a06897e55eebde25952d5bbce3d313e1de",
-  "notes": "업데이트 다이얼로그에 「버전 · 바뀐 것 한 줄」 표시 (latest.json notes)" }
+{ "version_code": 12, "version_name": "0.1.11",
+  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v0.1.11/kiosk-0.1.11-12.apk",
+  "sha256": "dcd8e36f4602c99f0a4501b5d83de56eff561bf784ff6b30be506ba3aab66089",
+  "notes": "대상자 동기화 5분 간격 제한" }
