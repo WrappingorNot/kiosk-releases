@@ -1,4 +1,4 @@
-{ "version_code": 26, "version_name": "0.2.13",
-  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v0.2.13/kiosk-0.2.13-26.apk",
-  "sha256": "bb0031bd6a646f54401d5c26556312fdbb6ca344af26a22b615ad8a5e31af332",
-  "notes": "첫 화면 오른쪽 위에 기관 알약(이름·코드·화살표) — 목록은 아직" }
+{ "version_code": 27, "version_name": "0.2.14",
+  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v0.2.14/kiosk-0.2.14-27.apk",
+  "sha256": "dd4f29aecce59e98753a0a3d498518cae31e5d559b4268b04f2fc358908d8e68",
+  "notes": "첫 화면 기관 알약 메뉴 — 「사용자 추가」(회원 가입) · 「프로그램 관리」(설정)" }
