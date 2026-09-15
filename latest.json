@@ -1,4 +1,4 @@
-{ "version_code": 28, "version_name": "0.2.15",
-  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v0.2.15/kiosk-0.2.15-28.apk",
-  "sha256": "b229bd0591517a28709690743cbed1233c1c929e8a28c7409a288dc773dc14bf",
-  "notes": "첫 화면 배경을 현재 시안으로 다시 구움 (워드마크 크기·자리, 떠 있던 화살표 제거), 제목 자리 보정" }
+{ "version_code": 29, "version_name": "0.2.16",
+  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v0.2.16/kiosk-0.2.16-29.apk",
+  "sha256": "d71ef59f6465f4f87bf4136d6d9c688ac6199b3e88b59f9032a84e265eef4c0d",
+  "notes": "첫 화면 배경에 구워진 제목·부제 글 제거 (코드가 그리는 글과 두 겹으로 보이던 것)" }
