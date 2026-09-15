@@ -1,4 +1,4 @@
-{ "version_code": 22, "version_name": "0.2.9",
-  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v0.2.9/kiosk-0.2.9-22.apk",
-  "sha256": "937be9d5bb7f00371273903a602b148f20fc20a161199871876a1436afc907cf",
-  "notes": "체험 모드에서 화면 빈 곳을 두드리면 지금 단계를 넘김 (기본평가·동작·SPPB·설문)" }
+{ "version_code": 23, "version_name": "0.2.10",
+  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v0.2.10/kiosk-0.2.10-23.apk",
+  "sha256": "dc9bb8c76270a03faa4502b3afb824242bdc938f4792da858b35cc57fb4d7649",
+  "notes": "개별 평가 선 자세 완료를 다른 종목처럼 카드 완료 화면으로" }
