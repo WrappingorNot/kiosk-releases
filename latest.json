@@ -1,4 +1,4 @@
-{ "version_code": 21, "version_name": "0.2.8",
-  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v0.2.8/kiosk-0.2.8-21.apk",
-  "sha256": "979d66a4b7debe1bcc2960d578e123d72e90f9deedd5627dc53cfed3a97d4bd6",
-  "notes": "개별 평가 삽화를 배경 없는 원본으로 교체 — 완료(파란) 카드에서도 온전히 보임" }
+{ "version_code": 22, "version_name": "0.2.9",
+  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v0.2.9/kiosk-0.2.9-22.apk",
+  "sha256": "937be9d5bb7f00371273903a602b148f20fc20a161199871876a1436afc907cf",
+  "notes": "체험 모드에서 화면 빈 곳을 두드리면 지금 단계를 넘김 (기본평가·동작·SPPB·설문)" }
