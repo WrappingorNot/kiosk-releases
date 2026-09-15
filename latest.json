@@ -1,4 +1,4 @@
-{ "version_code": 15, "version_name": "0.2.2",
-  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v0.2.2/kiosk-0.2.2-15.apk",
-  "sha256": "150d2e922591df98694238f5e70581c48b6612596f1a8143676a1d7314523bb3",
-  "notes": "개별 평가 삽화 검은 배경 수정, 간략 보기(4열) 추가" }
+{ "version_code": 16, "version_name": "0.2.3",
+  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v0.2.3/kiosk-0.2.3-16.apk",
+  "sha256": "2a663a621f634e7764cf441fedced11e3a56842208a6f01156cd487573a63a99",
+  "notes": "개별 평가 카드 상태(누름·완료·회색)와 필터 칩 고른 모양을 시안대로" }
