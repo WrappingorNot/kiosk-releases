@@ -1,4 +1,4 @@
-{ "version_code": 20, "version_name": "0.2.7",
-  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v0.2.7/kiosk-0.2.7-20.apk",
-  "sha256": "5a0689999d9be365c9998ce7821132f4e967b56cd69168e47b507a5944909ce3",
-  "notes": "체험 모드에서도 마친 개별 종목 카드가 뒤집힘 (저장은 안 함, 앱 켜 있는 동안만)" }
+{ "version_code": 21, "version_name": "0.2.8",
+  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v0.2.8/kiosk-0.2.8-21.apk",
+  "sha256": "979d66a4b7debe1bcc2960d578e123d72e90f9deedd5627dc53cfed3a97d4bd6",
+  "notes": "개별 평가 삽화를 배경 없는 원본으로 교체 — 완료(파란) 카드에서도 온전히 보임" }
