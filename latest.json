@@ -1,4 +1,4 @@
-{ "version_code": 16, "version_name": "0.2.3",
-  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v0.2.3/kiosk-0.2.3-16.apk",
-  "sha256": "2a663a621f634e7764cf441fedced11e3a56842208a6f01156cd487573a63a99",
-  "notes": "개별 평가 카드 상태(누름·완료·회색)와 필터 칩 고른 모양을 시안대로" }
+{ "version_code": 17, "version_name": "0.2.4",
+  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v0.2.4/kiosk-0.2.4-17.apk",
+  "sha256": "fa8311340bf9c3e3adefcad74b931d88b5daa4b654ccfa5afb16113b7c68a279",
+  "notes": "개별 평가 기록을 기본 회차·보완 계획·결과지·전송에서 분리, 완료 판정은 같은 날로 통일" }
