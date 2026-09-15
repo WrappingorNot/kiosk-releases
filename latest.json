@@ -1,4 +1,4 @@
-{ "version_code": 24, "version_name": "0.2.11",
-  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v0.2.11/kiosk-0.2.11-24.apk",
-  "sha256": "7f5c0cb47faaa2f8e1cef01220c742e4464c9230298db035fe7515cb5a6408f2",
-  "notes": "마음평가 카드 10장 삽화를 시안(Q-001~Q-011)대로" }
+{ "version_code": 25, "version_name": "0.2.12",
+  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v0.2.12/kiosk-0.2.12-25.apk",
+  "sha256": "e1331af2b25da8f19746a2611f9ba04392439dd76bcbee1f47446aaa20ba32bd",
+  "notes": "기본평가 균형 준비를 SPPB 와 같은 규칙으로 — 발 자리 둘에 압력 2초 → 인식 완료 → 버튼 없이 자동 측정" }
