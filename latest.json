@@ -1,4 +1,4 @@
-{ "version_code": 14, "version_name": "0.2.1",
-  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v0.2.1/kiosk-0.2.1-14.apk",
-  "sha256": "7f14f65a2616da0158c6c9d8b0e4a8425b263eb60da4393137fcc1b4b284ba43",
-  "notes": "체험 모드면 기관 코드·로그인 건너뜀, 체험 모드 SPPB 저장 안 함" }
+{ "version_code": 15, "version_name": "0.2.2",
+  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v0.2.2/kiosk-0.2.2-15.apk",
+  "sha256": "150d2e922591df98694238f5e70581c48b6612596f1a8143676a1d7314523bb3",
+  "notes": "개별 평가 삽화 검은 배경 수정, 간략 보기(4열) 추가" }
