@@ -1,4 +1,4 @@
-{ "version_code": 33, "version_name": "0.2.20",
-  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v0.2.20/kiosk-0.2.20-33.apk",
-  "sha256": "c356de75b6086917ead3f57ddd06e556a13c4cf9d9aff2bdd6f80b6b50f3d729",
-  "notes": "기관 메뉴 버튼 둘을 원래 남색·흰 글로 되돌림 (판만 알약 색)" }
+{ "version_code": 34, "version_name": "0.2.21",
+  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v0.2.21/kiosk-0.2.21-34.apk",
+  "sha256": "03e136c43c2eb2df49dfb9840e8e11c4ab51638d7e67adddd53382b25d4effa4",
+  "notes": "기관 메뉴를 시안 비율로(버튼 270×80, 시안 아이콘) · 「사용자 추가」「프로그램 관리」 앞에 관리자 코드 화면(5252:33776)" }
