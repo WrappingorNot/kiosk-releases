@@ -1,4 +1,4 @@
-{ "version_code": 31, "version_name": "0.2.18",
-  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v0.2.18/kiosk-0.2.18-31.apk",
-  "sha256": "8bf233bdb762cbc2f250dcde1034965270a30a668fb365f44596366105f500d8",
-  "notes": "첫 화면 기관 메뉴 색을 알약과 같게 (밝은 판, 회청색 글)" }
+{ "version_code": 32, "version_name": "0.2.19",
+  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v0.2.19/kiosk-0.2.19-32.apk",
+  "sha256": "6d4c315e87d0214d8b0fee776f84a8edd1fe8ce1d4f7fb606bdec6e98af72ac3",
+  "notes": "기관 메뉴 열릴 때 알약이 스크림에 어두워지던 것 — 스크림을 알약 아래에" }
