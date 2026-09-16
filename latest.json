@@ -1,4 +1,4 @@
-{ "version_code": 29, "version_name": "0.2.16",
-  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v0.2.16/kiosk-0.2.16-29.apk",
-  "sha256": "d71ef59f6465f4f87bf4136d6d9c688ac6199b3e88b59f9032a84e265eef4c0d",
-  "notes": "첫 화면 배경에 구워진 제목·부제 글 제거 (코드가 그리는 글과 두 겹으로 보이던 것)" }
+{ "version_code": 30, "version_name": "0.2.17",
+  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v0.2.17/kiosk-0.2.17-30.apk",
+  "sha256": "2aa752e70029deb22d7044279d25cb0f0241da00230fad943491004cbf3dc47d",
+  "notes": "상단바 배터리 「100%」가 두 줄로 접히던 것 — 칸을 넓히고 줄바꿈 막음" }
