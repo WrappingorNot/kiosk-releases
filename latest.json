@@ -1,4 +1,4 @@
-{ "version_code": 34, "version_name": "0.2.21",
-  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v0.2.21/kiosk-0.2.21-34.apk",
-  "sha256": "03e136c43c2eb2df49dfb9840e8e11c4ab51638d7e67adddd53382b25d4effa4",
-  "notes": "기관 메뉴를 시안 비율로(버튼 270×80, 시안 아이콘) · 「사용자 추가」「프로그램 관리」 앞에 관리자 코드 화면(5252:33776)" }
+{ "version_code": 35, "version_name": "0.3.0",
+  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v0.3.0/kiosk-0.3.0-35.apk",
+  "sha256": "16d9b3cb8cb3198a2e9bf596bd7d947f6fedc4b719d449ffb496accd52fde850",
+  "notes": "출석 연동(관리자 코드 = 인계 코드 교환 → 프로그램 관리: 명단·서명 출석·참여자 추가·당겨서 새로고침) · 사용자 기록카드 · 개별평가 리포트(종목 조각) · 평가 코드 규칙 BA/SA/IA(개별·단독 SPPB 는 INDEPENDENT) · 마음 평가는 우울·불안·허약만 · 10 분 무동작이면 첫 화면 · OTA 확인 1 시간 · 종목 카드 「최근 평가」 잘림" }
