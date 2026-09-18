@@ -1,4 +1,4 @@
-{ "version_code": 35, "version_name": "0.3.0",
-  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v0.3.0/kiosk-0.3.0-35.apk",
-  "sha256": "16d9b3cb8cb3198a2e9bf596bd7d947f6fedc4b719d449ffb496accd52fde850",
-  "notes": "출석 연동(관리자 코드 = 인계 코드 교환 → 프로그램 관리: 명단·서명 출석·참여자 추가·당겨서 새로고침) · 사용자 기록카드 · 개별평가 리포트(종목 조각) · 평가 코드 규칙 BA/SA/IA(개별·단독 SPPB 는 INDEPENDENT) · 마음 평가는 우울·불안·허약만 · 10 분 무동작이면 첫 화면 · OTA 확인 1 시간 · 종목 카드 「최근 평가」 잘림" }
+{ "version_code": 36, "version_name": "0.3.1",
+  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v0.3.1/kiosk-0.3.1-36.apk",
+  "sha256": "e920643f85de5f2304b9a84ff149b9c4eb601ec23302b1485e2bcd2cd6e02ec2",
+  "notes": "개별평가 마음 리포트(우울 SGDS-K·불안 GAD-7·허약 K-FRAIL 문항표·판정 기준·총점) · 개별 리포트 틀을 시안대로(갈래·종목·꼬리표 머리, 카드 716×796) · 선 자세 리포트는 점수 없는 그림만 · 마음 평가 회색 카드는 뒤로 · 체험 모드 리포트는 무작위 기록 · 리포트 위 알약도 고르기로 · 관리자 더미 길게 누르기 제거" }
