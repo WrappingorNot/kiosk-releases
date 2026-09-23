@@ -1,4 +1,4 @@
-{ "version_code": 39, "version_name": "1.0.6",
-  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v1.0.6/kiosk-1.0.6-39.apk",
-  "sha256": "cdd482f4dc0edb4f3303a0f73320262cc705bad520e43e62758127057287cf32",
+{ "version_code": 40, "version_name": "1.0.2",
+  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v1.0.2/kiosk-1.0.2-40.apk",
+  "sha256": "a2e89cadb632f232ed002391fa11d7443558cdb10b58b73983f361304e0effda",
   "notes": "서명 출석이 현장(릴리스)에서 전부 400 으로 거절되던 것 — 난독화가 서명 칸 이름(strokes)을 바꿨다. 서명·기록카드 칸 이름 고정 · 서버가 서명을 거절하면 임시 「출석 완료」를 거두고 이유를 창으로(토스트는 놓침) · 옛 판이 난독화된 이름으로 쓴 기록카드는 덮지 않고 따로 보관" }
