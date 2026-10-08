@@ -1,4 +1,4 @@
-{ "version_code": 42, "version_name": "1.0.4",
-  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v1.0.4/kiosk-1.0.4-42.apk",
-  "sha256": "ed30ce1de356c540c6b3a4d71485866f608c613fdb18fb3e0cf47915647cbc74",
-  "notes": "선 자세(균형평가) 결과가 「자료 없음」으로 나오던 것 — 릴리스 빌드가 센서 원본 칸 이름을 a·b·c 로 바꿔 저장해 값이 전부 0 으로 읽혔다. 센서 원본·SPPB 결과 칸 이름 고정 + 이미 a·b·c 로 저장된 기록도 읽음" }
+{ "version_code": 44, "version_name": "1.0.6",
+  "apk_url": "https://github.com/WrappingorNot/kiosk-releases/releases/download/v1.0.6/kiosk-1.0.6-44.apk",
+  "sha256": "3c38e44d383f01de890db6a4153408a2c05508662f3af584f68263672ce74e37",
+  "notes": "지난 평가 요약 — 기본·보완·개별 평가 결과 리포트(신체·인지·마음 탭, 최초 고정 + 최근 회차 그래프)와 회차별 점수 목록 · 홈 「정규 평가」 · 개별평가 악력(IA_GRIP_STR 으로 전송)과 균형·마음 나레이션 · 결과지 만들기 2.6~3.3초 → 0.2초 · 매트 펌웨어 OTA(관리 화면에서 한 대씩)와 매트 간단 진단 · 매트 수신 안정화(Wi-Fi 저지연 잠금, 무수신 끊기 30초, ping 20초) · 화면 꺼짐·절전으로 매트가 끊기지 않게 · 오류 코드와 개발자 디스코드 알림 · 「모든 기록·개인정보 초기화」 확인 창 · R8 이름 바꾸기 끔 + 앱 클래스 칸 보존. 1.0.5(43)는 배포하지 않았다" }
